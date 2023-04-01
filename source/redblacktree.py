@@ -2,7 +2,7 @@
 #It is not my implementation
 
 import random
-from process import Process
+from algo.process import Process
 
 class RBNode:
     def __init__(self, vrtime):
